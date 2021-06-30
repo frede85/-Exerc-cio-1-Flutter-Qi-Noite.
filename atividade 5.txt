@@ -1,0 +1,20 @@
+//Atividade 5
+void main() {
+  print("Nomes:Alberto,Gilberto");
+  var nomes9 = "Alberto";
+  var nomes6 = "Gilberto";
+  if(nomes9 != nomes6){
+  print("Os nomes não conferem\n");
+  }else if (nomes9 == nomes6){
+    print("É a mesma pessoa\n");
+  }
+  
+  print("Nomes:Alberto,Alberto");
+  var nomes5 = "Alberto";
+  var nomes8 = "Alberto";
+  if(nomes5 != nomes8){
+  print("Os nomes não conferem");
+  }else if (nomes5 == nomes8){
+    print("É a mesma pessoa");
+  }
+ }

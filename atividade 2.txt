@@ -1,0 +1,22 @@
+//Atividade 2.
+void main() {
+  
+  var valor_ingressos = 25;
+  var pessoas = 4;
+  var filme = "Harry Potter e a ordem da fênix";
+  
+  print("Filme: $filme");
+  print("Valores dos ingressos: $valor_ingressos");
+  print("Quantidade de Pessoas: $pessoas\n");
+  
+  double total_ingressos = 25;
+  double total_pessoas = 4;
+  double total = (total_ingressos*total_pessoas);
+    
+  print("Total dos Ingressos: " + "$total");
+  
+
+  
+  
+
+}

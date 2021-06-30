@@ -1,0 +1,21 @@
+ //1.
+void main() {
+
+  var nome = "alberto";
+  var sobrenome = "Hämäläinen";
+  var idade = "35 anos";
+  var pais = "Finlandia";
+  var cidade = "Kemi";
+  var rua = "Kaivokatu";
+  var numero_casa = "19";
+
+  print("Nome: $nome\n"
+        "sobrenome: $sobrenome\n"
+        "idade: $idade\n"
+        "Pais: $pais\n"
+        "Cidade: $cidade\n"
+        "Rua: $rua\n"
+        "Numero da casa: $numero_casa\n");  
+      
+}
+

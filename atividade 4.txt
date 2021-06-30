@@ -1,0 +1,13 @@
+//Atividade 4.
+void main() {
+  
+  double lado2 = 8;
+  double lado1 = 8;
+  print("Medidas de um Quadrado:");
+  print("lado1: $lado1 cm");
+  print("lado2: $lado2 cm\n");
+  
+  print("Área do Quadrado:");
+  print("Total: ${lado1*lado2}");
+ 
+}

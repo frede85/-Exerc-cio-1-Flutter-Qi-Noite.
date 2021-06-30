@@ -1,0 +1,18 @@
+//Atividade 3.
+void main() {  
+  double base_maior = 10;
+  double base_menor = 5;
+  double altura = 5;
+  double divisao = 2;
+  
+  
+  print("Medidas do Trapézio");
+  
+  print("Base mairo: $base_maior");
+  print("Base menor: $base_menor");
+  print("Altura: $altura\n");
+  
+  print("Area do Trapezio");
+  
+  print("Total: ${base_maior + base_menor * altura / divisao}");
+}
